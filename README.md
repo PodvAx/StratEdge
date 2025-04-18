@@ -1,6 +1,6 @@
-# Air Landing Page
+# Strat Edge
 
-[DEMO LINK](https://PodvAx.github.io/Air_landing/)
+[DEMO LINK](https://PodvAx.github.io/StratEdge/)
 
 [FIGMA DESIGN](<https://www.figma.com/design/7qwsWggv9BAxMi2VPhBuPr/Air-(formerly-Dia)>)
 
